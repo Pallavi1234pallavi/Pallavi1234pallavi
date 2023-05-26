@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Mahanta</h1>
 <h3 align="center">A web developer enthusiast... always learning while coding...</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/402b2fc1baaf7931fcadd20d59223a85cac298d84aaefe6486868a4f1b3e4fd7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
+">
 - 🌱 I’m currently learning **React JS** <br>
 - I'm Currently Working on [Career-Counselling-web-App](https://github.com/Career-Counselling-App)
 
