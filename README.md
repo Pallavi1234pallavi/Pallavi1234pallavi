@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pallavi Mahanta</h1>
-<h2 align="center">A web developer enthusiast... always learning while coding...</h2>
+<h3 align="center">A web developer enthusiast... always learning while coding...</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 - 🌱 I’m currently learning **React JS**
+- I'm Currently Working on [Career-Counselling-web-App](https://github.com/Career-Counselling-App)
 
 - 💬 Ask me about **JS,CSS,HTML**
 
